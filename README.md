@@ -39,8 +39,7 @@ across H1 2026.
 
 ## The Approach
 
-Rather than organising the dashboard around what the dataset contained, every page was 
-structured around what a Risk or Finance stakeholder would need to know, in the order 
+Every page was structured around what a Risk or Finance stakeholder would need to know, in the order 
 they would need to know it. The guiding question throughout was: if I had to walk into a 
 board meeting with this data, what would I say first, second, and third?
 
