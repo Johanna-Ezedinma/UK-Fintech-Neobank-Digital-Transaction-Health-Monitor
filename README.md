@@ -1,24 +1,11 @@
 # Neobank Digital Transaction Health Monitor
 ## How a compliance badge became a backdoor
 
-**Author:** Johanna Ezedinma
+**Author:** Johanna Ezedinma    
 **Date:** June 2026
 
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](https://www.linkedin.com/in/johanna-ezedinma/)
-[
-
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-
-](https://medium.com/@johannaezedinma)
-[
-
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-](https://github.com/Johanna-Ezedinma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johanna-ezedinma/)[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@johannaezedinma)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Johanna-Ezedinma)
 
 ---
 
@@ -92,7 +79,7 @@ raises the question the next page answers.
 
 
 
-![Overview](Dashboards/Neobank%20digital%20transaction%20health%20monitor_Overview.jpg)
+![Overview](Dashboards/Neobank%20Digital%20Transaction%20Health%20Monitor_Overview.jpg)
 
 
 **Key insight:** Volume is there. Outcomes are not. The bank is generating activity without 
@@ -105,7 +92,7 @@ generating results. Page 2 explains where the failure concentrates.
 
 
 
-![Risk](Dashboards/Neobank%20digital%20transaction%20health%20monitor_Risk.jpg)
+![Risk](Dashboards/Neobank%20Digital%20Transaction%20Health%20Monitor_Risk.jpg)
 
 
 **Key insight:** The risk framework is misfiring. The categories it treats as dangerous are 
@@ -119,7 +106,7 @@ what needs to change.
 
 
 
-![Recommendations](Dashboards/Neobank%20digital%20transaction%20health%20monitor_Recommendations.jpg)
+![Recommendations](Dashboards/Neobank%20Digital%20Transaction%20Health%20Monitor_Recommendations.jpg)
 
 
 **Key insight:** The bank is over-reliant on one segment that is both its biggest revenue 
@@ -196,7 +183,7 @@ evidence is not a risk control. It is a false sense of security.
 | Power Query (M) | Calculated columns, custom date table, data type corrections |
 
 ---
-
+```
 ## Repository Contents
 📁 Neobank-Digital-Transaction-Health-Monitor
 │
@@ -205,7 +192,7 @@ evidence is not a risk control. It is a false sense of security.
 ├── Neobank digital transaction health monitor_overview.jpg
 ├── Neobank digital transaction health monitor_risk.jpg
 └── Neobank digital transaction health monitor_recommendations.jpg
-
+```
 ---
 
 ## Links
@@ -214,17 +201,10 @@ evidence is not a risk control. It is a false sense of security.
 
 ---
 
+
 ## Author
 
 **Johanna Ezedinma**
 
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](https://www.linkedin.com/in/johanna-ezedinma/)
-[
-
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-](https://github.com/Johanna-Ezedinma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johanna-ezedinma/)[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@johannaezedinma)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Johanna-Ezedinma)  
