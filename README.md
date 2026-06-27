@@ -81,8 +81,9 @@ raises the question the next page answers.
 ![Overview](Dashboards/Neobank%20Digital%20Transaction%20Health%20Monitor_Overview.jpg)
 
 
-**Key insight:** Volume is there. Outcomes are not. The bank is generating activity without 
-generating results. Page 2 explains where the failure concentrates.
+**Key insight:** Volume peaked in March. The success rate flatlined at 15% and never
+recovered, sitting 65% points below the industry standard of 80%. The bank
+is generating activity without generating outcomes.
 
 ---
 
@@ -95,8 +96,8 @@ generating results. Page 2 explains where the failure concentrates.
 
 
 **Key insight:** The risk framework is misfiring. The categories it treats as dangerous are 
-not the ones driving actual fraud. Page 3 shows what the revenue picture looks like and 
-what needs to change.
+not the ones driving actual fraud. Business and Standard segments have never completed a single transaction.
+Business customers on the Automated channel carry a 50% fraud rate.
 
 ---
 
@@ -108,8 +109,14 @@ what needs to change.
 ![Recommendations](Dashboards/Neobank%20Digital%20Transaction%20Health%20Monitor_Recommendations.jpg)
 
 
-**Key insight:** The bank is over-reliant on one segment that is both its biggest revenue 
-driver and its biggest risk. 50% of H1 fee revenue is tied to fraud-flagged transactions. 
+**Key insight:** The bank is over reliant on one segment that is both its biggest revenue.    
+Premium accounts for £1.16M of the £1.19M total fraud exposure while
+generating the most transaction value. KYC-verified customers drive 100% of flagged fraud
+while unverified customers show zero and complete more transactions.   
+Card Refunds processed £156K in value and generated
+£0 in fee revenue
+driver and its biggest risk.      
+50% of H1 fee revenue is tied to fraud-flagged transactions.
 If nothing changes before H2, the bank risks losing both.
 
 ---
